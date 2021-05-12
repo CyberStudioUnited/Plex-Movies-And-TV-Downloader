@@ -1,11 +1,9 @@
 /**
  * Download original files from the Plex web interface
  *
- * This project is licensed under the terms of the MIT license, see https://piplongrun.github.io/plxdwnld/LICENSE.txt
  *
- * @author      Pip Longrun <pip.longrun@protonmail.com>
- * @version     0.3
- * @see         https://piplongrun.github.io/plxdwnld/
+ * @author      Lazymanzoid
+ * @version     1.0
  *
  */
 "use strict";
